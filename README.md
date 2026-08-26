@@ -34,6 +34,6 @@ The project implements a resilient data engineering pipeline natively in Microso
 * Decoupled Capacity vs. Clinical Severity: Analytical findings demonstrate that physical bed availability remains almost completely static regardless of initial clinical urgency, averaging 3.17 available rooms for Extreme cases, 3.19 for Minor, and 3.21 for Moderate. This indicates that hospital gridlock is an operational flow issue driven by delayed discharges and clinical processing times within specific specialties, rather than a heavy influx of higher-acuity emergency cases.
 
 ------------------------------
-
+References & Source MaterialPrimary Open-Source Data Asset: Jagadeeshr, D. Analytics for Hospital's Healthcare Data. Kaggle Open Datasets.Raw Repository Location: Available via the official Kaggle Healthcare Analytics Competition Page.Operational Guidelines Reference: Developed in alignment with NHS England Information Governance Frameworks, standard trust Bed Management targets, and Caldicott principles for proxy-data reporting models.
 
 
